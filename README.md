@@ -20,7 +20,7 @@ cd google-dorks-toolkit
 
 2. Install requirements (Python 3.6+ required):
 ```bash
-pip3 install -r requirements.txt
+pip install -r requirements.txt
 ```
 
 ## Usage
@@ -28,16 +28,16 @@ pip3 install -r requirements.txt
 Basic commands:
 ```bash
 # List all available dorks
-python3 dorker.py -l
+python dorker.py -l
 
 # Search using dork number
-python3 dorker.py -s 3
+python dorker.py -s 3
 
 # Search using custom dork
 python dorker.py -c "inurl:admin/login.php"
 
 # Interactive mode (default)
-python3 dorker.py
+python dorker.py
 ```
 
 ## Adding Custom Dorks
