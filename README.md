@@ -14,7 +14,7 @@ A cross-platform tool for performing Google dork searches from the command line.
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/google-dorks-toolkit.git
+git clone https://github.com/Rahul-8790/Google-Dorks-tool.git
 cd google-dorks-toolkit
 ```
 
