@@ -1,0 +1,2 @@
+# Required Python packages
+python>=3.6
