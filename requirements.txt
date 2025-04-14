@@ -1,2 +1,2 @@
 # Required Python packages
-python>=2
+# Python 3.6+ should be installed separately
